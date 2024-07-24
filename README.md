@@ -23,7 +23,7 @@ Estas circunstancias llevaron a algunas adaptaciones en la implementación del p
 ## Instalación
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/social-network-app.git
+    git clone origin https://github.com/LFelipeAlvarez/tita-challenge.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
@@ -100,4 +100,4 @@ src/
 - Uso de **Atomic Design** para la organización de componentes.
 
 ## Despliegue
-La aplicación está desplegada en Netlify. Puedes acceder a ella [aquí](https://your-netlify-url.netlify.app).
+La aplicación está desplegada en Netlify. Puedes acceder a ella [aquí](https://tita-code-challenge.netlify.app/).
