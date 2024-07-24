@@ -1,4 +1,4 @@
-# Social Network React App
+# Tita's code challenge
 
 ## Descripción
 Esta aplicación es una prueba técnica desarrollada con React que permite a los usuarios autenticarse utilizando un autenticador externo (Google), ver publicaciones, y mostrar detalles del usuario y comentarios en modales. La aplicación consume la API de DummyAPI.io.
@@ -27,7 +27,7 @@ Estas circunstancias llevaron a algunas adaptaciones en la implementación del p
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd social-network-app
+    cd tita-challenge
     ```
 3. Instala las dependencias:
     ```bash
