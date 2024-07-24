@@ -1,0 +1,24 @@
+.comments {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+    gap: 1.5rem;
+}
+
+.comment {
+    background-color: #353535;
+    border-radius: .3125rem;
+    padding: .5rem 1rem;
+}
+
+.comment__header {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin-bottom: .5rem;
+}
+
+.comment__img {
+    border-radius: 50%;
+    width: 3rem;
+}

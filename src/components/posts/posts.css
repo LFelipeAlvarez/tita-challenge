@@ -1,0 +1,26 @@
+.main {
+    padding: 2rem;
+
+    .title {
+        text-align: center;
+    }
+
+    &>.tags {
+        justify-content: center;
+        margin-bottom: 2rem;
+        margin-top: 1rem;
+    }
+}
+
+.posts {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(21.875rem, 1fr));
+    gap: 2rem;
+
+}
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+}

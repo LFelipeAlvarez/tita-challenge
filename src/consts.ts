@@ -1,0 +1,1 @@
+export const TAGS = ['ocean', 'nature', 'water', 'dog', 'semiahmoo bay', 'person', 'human', 'waterfront']
